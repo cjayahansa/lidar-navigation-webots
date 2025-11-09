@@ -43,9 +43,9 @@ In this simulation, the robot uses a LiDAR sensor to detect the distance to near
 ---
 ## Simulation Screenshot
 ![Webots Lidar Simulation](https://github.com/cjayahansa/lidar-navigation-webots/blob/main/Screenshot%20from%202025-11-09%2009-55-05.png)
-![Webots Lidar Simulation](https://github.com/cjayahansa/lidar-navigation-webots/blob/main/Screenshot%20from%202025-11-09%2009-55-05.png)
-![Webots Lidar Simulation](https://github.com/cjayahansa/lidar-navigation-webots/blob/main/Screenshot%20from%202025-11-09%2009-55-05.png)
-![Webots Lidar Simulation](https://github.com/cjayahansa/lidar-navigation-webots/blob/main/Screenshot%20from%202025-11-09%2009-55-05.png)
+![Webots Lidar Simulation](https://github.com/cjayahansa/lidar-navigation-webots/blob/main/Screenshot%20from%202025-11-09%2009-55-54.png)
+![Webots Lidar Simulation](https://github.com/cjayahansa/lidar-navigation-webots/blob/main/Screenshot%20from%202025-11-09%2009-56-18.png)
+![Webots Lidar Simulation](https://github.com/cjayahansa/lidar-navigation-webots/blob/main/Screenshot%20from%202025-11-09%2009-56-32.png)
 
 
 
