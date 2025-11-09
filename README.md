@@ -42,5 +42,8 @@ In this simulation, the robot uses a LiDAR sensor to detect the distance to near
 
 ---
 ## Simulation Screenshot
-![Webots Lidar Simulation](screenshot.png)
+![Webots Lidar Simulation](https://github.com/YourUsername/Lidar_sensor_using_navigation_webot/raw/main/Screenshot_2025-11-09_09-56-32.png)
+
+
+
 
